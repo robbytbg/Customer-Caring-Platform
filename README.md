@@ -59,7 +59,7 @@ This project is built using the **PHP Laravel** framework version 11.0, requirin
 
 The **Customer Caring Integrated Platform** supports multiple user roles: **Super Admin**, **Admin**, **Editor**, and **Viewer**. Each role has specific access and functionality within the system, as depicted in the following use case diagram:
 
-![](Aspose.Words.d5885a87-a8bc-42f3-a8cb-803caf7c8d57.004.jpeg)
+![](https://github.com/robbytbg/Customer-Caring-Platform/tree/main/related%20images/Aspose.Words.d5885a87-a8bc-42f3-a8cb-803caf7c8d57.004.jpeg)
 
 - **Super Admin**: Manages user roles, assigns permissions, and handles account deletions.
 - **Admin**: Has access to the admin page to manage the user sheet, edit sheet codes, and create or delete customer records.
