@@ -69,7 +69,7 @@ The **Customer Caring Integrated Platform** supports multiple user roles: **Supe
 
 The **sequence diagram** below outlines the process of user authentication and role- based access control in the platform. This process ensures that users with the correct roles gain access to their designated pages, while others are redirected to a restricted page.
 
-![](Aspose.Words.d5885a87-a8bc-42f3-a8cb-803caf7c8d57.005.jpeg)
+![](https://github.com/robbytbg/Customer-Caring-Platform/blob/4c599ec626e0c0874f7ad10240c7acb90db9d33c/related%20images/Aspose.Words.d5885a87-a8bc-42f3-a8cb-803caf7c8d57.005.jpeg)
 
 1. **Access Login**: The user inputs their credentials on the login page.
 1. **Validation**: The system validates user credentials with the database.
@@ -81,7 +81,7 @@ The **sequence diagram** below outlines the process of user authentication and r
 
 1. **Caring Dashboard**
 
-![](Aspose.Words.d5885a87-a8bc-42f3-a8cb-803caf7c8d57.006.jpeg)
+![](https://github.com/robbytbg/Customer-Caring-Platform/blob/4c599ec626e0c0874f7ad10240c7acb90db9d33c/related%20images/Aspose.Words.d5885a87-a8bc-42f3-a8cb-803caf7c8d57.006.jpeg)
 
 **Sheet Code Distribution**
 
@@ -100,7 +100,7 @@ The **sequence diagram** below outlines the process of user authentication and r
 - Shows the current state or status of customers, indicating their engagement, satisfaction, or issues.
 2. **Business Report**
 
-![](Aspose.Words.d5885a87-a8bc-42f3-a8cb-803caf7c8d57.007.jpeg)
+![](https://github.com/robbytbg/Customer-Caring-Platform/blob/4c599ec626e0c0874f7ad10240c7acb90db9d33c/related%20images/Aspose.Words.d5885a87-a8bc-42f3-a8cb-803caf7c8d57.007.jpeg)
 
 **Matrix of Detailed Report**
 
@@ -120,17 +120,17 @@ The **Customer Caring Integrated Platform** successfully addresses the need for 
 
 **FIGURES**
 
-![](Aspose.Words.d5885a87-a8bc-42f3-a8cb-803caf7c8d57.008.jpeg)
+![](https://github.com/robbytbg/Customer-Caring-Platform/blob/4c599ec626e0c0874f7ad10240c7acb90db9d33c/related%20images/Aspose.Words.d5885a87-a8bc-42f3-a8cb-803caf7c8d57.008.jpeg)
 
-![](Aspose.Words.d5885a87-a8bc-42f3-a8cb-803caf7c8d57.009.jpeg)
+![](https://github.com/robbytbg/Customer-Caring-Platform/blob/4c599ec626e0c0874f7ad10240c7acb90db9d33c/related%20images/Aspose.Words.d5885a87-a8bc-42f3-a8cb-803caf7c8d57.009.jpeg)
 
-![](Aspose.Words.d5885a87-a8bc-42f3-a8cb-803caf7c8d57.010.png)
+![](https://github.com/robbytbg/Customer-Caring-Platform/blob/4c599ec626e0c0874f7ad10240c7acb90db9d33c/related%20images/Aspose.Words.d5885a87-a8bc-42f3-a8cb-803caf7c8d57.010.png)
 
-![](Aspose.Words.d5885a87-a8bc-42f3-a8cb-803caf7c8d57.011.png)
+![](https://github.com/robbytbg/Customer-Caring-Platform/blob/4c599ec626e0c0874f7ad10240c7acb90db9d33c/related%20images/Aspose.Words.d5885a87-a8bc-42f3-a8cb-803caf7c8d57.011.png)
 
-![](Aspose.Words.d5885a87-a8bc-42f3-a8cb-803caf7c8d57.012.png)
+![](https://github.com/robbytbg/Customer-Caring-Platform/blob/4c599ec626e0c0874f7ad10240c7acb90db9d33c/related%20images/Aspose.Words.d5885a87-a8bc-42f3-a8cb-803caf7c8d57.012.png)
 
-![](Aspose.Words.d5885a87-a8bc-42f3-a8cb-803caf7c8d57.013.png)
+![](https://github.com/robbytbg/Customer-Caring-Platform/blob/4c599ec626e0c0874f7ad10240c7acb90db9d33c/related%20images/Aspose.Words.d5885a87-a8bc-42f3-a8cb-803caf7c8d57.013.png)
 
 ![](Aspose.Words.d5885a87-a8bc-42f3-a8cb-803caf7c8d57.014.png)
 
